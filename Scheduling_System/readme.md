@@ -6,6 +6,11 @@ This project aims to automate the scheduling process for a bakery, which current
 ## Objective
 Create use case and sequence diagrams, along with header files containing the necessary classes and function declarations to implement the described system. Additionally, the system includes a mockup of the system's interface.
 
+## Technologies
+- **Headers:** C++
+- **Diagrams:** Visual Paradigm
+- **Mockup Screen:** Wireframe
+
 ## System Features
 
 ### Order Registration:
