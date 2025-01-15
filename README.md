@@ -19,3 +19,5 @@ Upon completing the projects in this repository, the following learning outcomes
 ---
 
 This README provides an overview of the course and the software design projects contained in this repository.
+
+![Diagrama do Kroki](https://kroki.io/plantuml/svg/eNp1kkEOwiAQRfecYpZ24QW6ME2qCxdGF3oAgmNDQocGRk1vL7RJU5CuIDP_zXx-aDxLx-_eCKnYOrh-CZ1QlthZA49zO9_Mqni0vdSUNMKhWFvycJNjj8T3ccB2KS_oiVjzeJEku8AJMW2D_SFZVINDdho_uBrmd5VYiyKUG6mhQ86YXBO5xMUE7Yq2K5EoI1rU1aAcSsawLieKLo32DPYFwzwMOHotOP3LpQymsQRoSnVLvZW5kqTQxCeIBukZf8QP6BrCrQ==)
