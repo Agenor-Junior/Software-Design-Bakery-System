@@ -1,0 +1,26 @@
+@startuml
+actor Owner
+control UIController
+control DomainController
+collections obj1
+control EntityManager
+hide footbox
+
+Activate Owner
+Owner -> UIController: Request()   
+activate UIController   
+UIController -> DomainController: Request() 
+deactivate UIController
+activate DomainController
+create collections obj1
+create control EntityManager
+DomainController->EntityManager: Request()
+activate EntityManager
+EntityManager --> obj1**: Request()
+deactivate EntityManager
+DomainController -> obj1: Request()
+DomainController --> UIController: Response()
+deactivate DomainController
+activate UIController
+UIController --> Owner: Response()
+@enduml
