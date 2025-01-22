@@ -20,7 +20,7 @@ Upon completing the projects in this repository, the following learning outcomes
 
 This README provides an overview of the course and the software design projects contained in this repository.
 
-sequenceDiagram
+```sequenceDiagram
     participant Owner
     participant UIController
     participant DomainController
