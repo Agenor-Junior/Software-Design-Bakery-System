@@ -14,7 +14,7 @@ Upon completing the projects in this repository, the following learning outcomes
 2. **Development Methodologies**: Identification of differences between development methodologies and adaptation of the most appropriate methodology to solve business problems.
 3. **Research and Requirements Gathering**: Conducting research and gathering the necessary information to determine what the proposed system needs to accomplish.
 4. **System Design**: Developing and delivering a system design model suitable for the business context.
-5. **Team Collaboration**: Collaborating in a team to select the most appropriate solution for the case study.
+5. **Team Collaboration**: Collaborating in a team to select the most appropriate solution for the case study
 
 ---
 
