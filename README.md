@@ -54,7 +54,7 @@ Create use case and sequence diagrams, along with header files containing the ne
 ### Exceptions
 - The owner can abort the process at any time.
 
-## Diagram Requirements
+## Diagrams
 1. **Class Diagram:** Represent the necessary classes and interactions for the system.
 2. **Sequence Diagram:** Detail the process of creating an order.
 3. **Low-Fidelity Mockup:** Include a mockup of the use case screen.
