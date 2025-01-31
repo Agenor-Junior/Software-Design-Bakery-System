@@ -6,7 +6,7 @@ This project aims to automate the scheduling process for a bakery, which current
 ## Objective
 Create use case and sequence diagrams, along with header files containing the necessary classes and function declarations to implement the described system. Additionally, the system includes a mockup of the system's interface.
 ## File Structure
-![Diagrama do Kroki](https://kroki.io/plantuml/svg/eNpdksFOwzAMhu97Cp8nVu6cJjYJcUAc-gRe4rYRqT0cl2pvj5u1k-CUps7n_4uVYzFUmy9lt4dWOptR6XCmkno-vOIX6e3Q3orRuNvvoWh49nUPSyW-icRmgBc4U5eYClzqeUh-usCcbADGkZ7gqin4ghwhcTGdgiXh0tRWp4ylwDlhrzg219h5w3siEFuyGyhlrMCQrhskbCo5k_5HPzAxhEfZA40U_wROxWQkreqtibp5WP9V4Sq6tHDM-U7u3Dv_iN-jYifMYXIrR00MM-AoExt0ok6DaPT-lfqsn0M1Y-wdqMV1PltuqZnL_CL0PtZVtQ0DxSlvruvu0WJhemK_3yKS7n4bSt8TcSCIf8ZTdSAo1YlCl2Vudkfi6C_gF_OZtDo=)
+![Diagrama do Kroki](https://kroki.io/plantuml/svg/eNpdksFugzAMhu99Cp_Ryu47VWulaYdqB7QHcBMDUUPMHDPUt59JoVJ3iiD-fn82HLKi6HzJuwoabnVGof2JcujS_h2vJLd9c8tKw66qIIt7tbOC5cZ_MPu6hzc4URsSZbiUeghWnWEO2kPCgV5glODswOQhpKwyOQ2ccl2ijhFzhlPATnCoR99a4L0jUNKgNxCKWIA-jBvESYVjJPmPnjEkcI9ra6gk-NRwysoDSVFvlMXM3fquCBfRJcIw41u-c5_pl22Ogh0xusmsDFVWjIADT0mhZTEaWLzlF-rM7jqNq9x33oxadFSq87bcCr4K1ZchEnaWXXLWVW6Kuegtq_bQ2RdYp2pcT36K21jr0yNiYTpKtorFOdxH2VD6mSiZj3_aZNEBJ1SWD23kud4dKPnlZ_kDBZPC2Q==)
 ## Technologies
 - **Headers:** C++
 - **Diagrams:** Visual Paradigm
