@@ -4,7 +4,7 @@
 This project aims to automate the scheduling process for a bakery, which currently handles this task manually. The system will enable the registration of customer information, bakers, ordered bakery items, and prices, as well as the creation of invoices based on the orders.
 
 ## Objective
-Create use case and sequence diagrams, along with header files containing the necessary classes and function declarations to implement the described system. Additionally, the system includes a mockup of the system's interface.
+Demostrate a use case and sequence diagrams, along with header files containing the necessary classes and function declarations to implement the described system. Additionally, the system includes a mockup of the system's interface.
 ## File Structure
 ![Diagrama do Kroki](https://kroki.io/plantuml/svg/eNpdksFugzAMhu99Cp_Ryu47VWulaYdqB7QHcBMDUUPMHDPUt59JoVJ3iiD-fn82HLKi6HzJuwoabnVGof2JcujS_h2vJLd9c8tKw66qIIt7tbOC5cZ_MPu6hzc4URsSZbiUeghWnWEO2kPCgV5glODswOQhpKwyOQ2ccl2ijhFzhlPATnCoR99a4L0jUNKgNxCKWIA-jBvESYVjJPmPnjEkcI9ra6gk-NRwysoDSVFvlMXM3fquCBfRJcIw41u-c5_pl22Ogh0xusmsDFVWjIADT0mhZTEaWLzlF-rM7jqNq9x33oxadFSq87bcCr4K1ZchEnaWXXLWVW6Kuegtq_bQ2RdYp2pcT36K21jr0yNiYTpKtorFOdxH2VD6mSiZj3_aZNEBJ1SWD23kud4dKPnlZ_kDBZPC2Q==)
 ## System Features
@@ -30,8 +30,8 @@ Create use case and sequence diagrams, along with header files containing the ne
 - Transform orders into sales.
 - Query the calendar by day to view scheduled orders.
 
-## Main Use Case
-### Name: Create Customer Order
+## Use Case
+### Create Customer Order
 - **Triggering Event:** A customer places an order.
 - **Primary Actor:** Owner.
 - **Description:** Allows the owner to register a new order and generate an invoice.
